@@ -1,0 +1,64 @@
+.wrapper{
+    width: 1280px;
+    border: 2px rgb(245, 245, 245) solid;
+    margin: 0 auto;
+}
+.ul1{
+    list-style: none;
+    align-items: flex-start;
+}
+
+.menu_item{
+    text-decoration: none;
+    color: #0E6F3B;
+    font-size: medium;
+}
+.img6{
+    
+}
+
+.link1 a{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.text1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.text2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    display: flex;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .nav1{
+} 
+
+
+    .mobile-nav{
+        display: block;
+    }
+}
+
+
+
+
+
